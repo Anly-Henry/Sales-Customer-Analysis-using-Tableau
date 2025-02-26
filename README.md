@@ -2,6 +2,8 @@
 
 ## Overview  
 This project showcases a **Sales Customer Dashboard** designed in Tableau Public. The dashboard provides an in-depth analysis of sales trends and customer segmentation to enhance business decision-making.  
+
+
 ![Sales Dashboard](https://github.com/user-attachments/assets/ee415cb3-af76-4a35-a277-92f87b59bbc8)
 
 ![Customer Dashboard ](https://github.com/user-attachments/assets/05dc334c-9457-4332-97c5-baa071a89bcc)
